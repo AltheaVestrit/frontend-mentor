@@ -100,8 +100,8 @@ article p {
 
 .attribution {
   position: absolute;
-  bottom: 5px;
-  padding: 0 15px;
+  bottom: 0;
+  padding: 5px 15px;
 }
 
 .attribution a {
